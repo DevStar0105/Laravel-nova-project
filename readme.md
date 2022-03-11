@@ -19,7 +19,7 @@ To run this application, ensure that the following programs are already installe
 
 1.  Clone the repository
 
-    `https://github.com/DevStar0105/basic-laravel-website.git`
+    `https://github.com/DevStar0105/laravel-nova-website.git`
 
 2.  Install all dependencies
 
